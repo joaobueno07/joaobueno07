@@ -28,7 +28,7 @@ Minhas Estatísticas do Github:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://portifolio-next-js-7mfk.vercel.app/">
+  <a href="https://portifolio-tau-six-83.vercel.app/contato">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </div>
