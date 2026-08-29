@@ -1,5 +1,5 @@
 ## Olá, meu nome é João Carlos!
-### Sou  Analista de Sistemas.
+### Sou formado em  Analise e Desenvolvimento de Sistemas e sou desenvolvedor full stack.
 
 Atualmente, utilizo as seguintes ferramentas (front-end e back-end):
 
