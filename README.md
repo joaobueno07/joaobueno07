@@ -1,7 +1,7 @@
 ## Olá, meu nome é João Carlos!
 ### Sou formado em  Analise e Desenvolvimento de Sistemas e sou desenvolvedor full stack.
 
-Atualmente, utilizo as seguintes ferramentas para criar os meus projetos(front-end e back-end):
+Atualmente, utilizo as seguintes ferramentas para criar os meus projetos (front-end e back-end):
 
 <div  style="display: inline_block"> </br>
   <img width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
